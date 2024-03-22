@@ -7,13 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayvvarma&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayvvarma" /> </p>
 
-- 🌱 I’m currently learning **Full stack web developer**
+- 🌱 I’m currently learning **Full stack web developer and DSA**
 
 - 👨‍💻 All of my projects are available at [https://sanjayvvarma.github.io/Portfolio/](https://sanjayvvarma.github.io/Portfolio/)
-
-- 💬 Ask me about **java, react, javascript, html, css, tailwind, bootstrap**
-
-- 📫 How to reach me **skvarma914@gmail.com**
 
 - 📄 Know about my experiences [https://sanjayvvarma.github.io/Portfolio/#/resume](https://sanjayvvarma.github.io/Portfolio/#/resume)
 
