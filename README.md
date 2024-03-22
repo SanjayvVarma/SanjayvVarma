@@ -27,7 +27,7 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](	https://img.shields.io/badge/Tailwind-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](	https://img.shields.io/badge/Tailwind-ED8B00?style=for-the-badge&logo=bootstrap&logoColor=blue)
 
 
 ## DevOps & Cloud Tools:
@@ -38,6 +38,7 @@
 
 ## 🔎 Connect with me:<img height="60px" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" />
 <p align="center">
+<a href="https://www.instagram.com/sanjayazad_" target="blank"><img align="center" src="https://img.icons8.com/?size=256&id=Xy10Jcu1L2Su&format=png" alt="twitter" height="40" width="40" /></a>
 <a href="https://twitter.com/sanjayazad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sanjayvvarma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkdin" height="30" width="40" /></a>
 <a href="mailto:skvarma914@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Shubham56-droid/Shubham56-droid/main/images/icons8-gmail.svg" alt="Gmail" height="33" width="42" /></a>
