@@ -5,7 +5,6 @@
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayvvarma&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayvvarma" /> </p>
 
 - 🌱 I’m currently learning **Full stack web developer and DSA**
 
