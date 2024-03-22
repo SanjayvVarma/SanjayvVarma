@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay Varma</h1>
 <h3 align="center">A passionate full stack web developer, Indian</h3>
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img align="right" alt="coding" width="330" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 
 - 🌱 I’m currently learning **Full stack web developer and DSA**
