@@ -34,6 +34,7 @@
 ## 📊 My Github Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SanjayvVarna&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjay Varma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayvvarma&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayvvarma" /> </p>
 
 <p align="center" width="100%" >
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SanjayvVarma" alt="Sanjay varma" />
