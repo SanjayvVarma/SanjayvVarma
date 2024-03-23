@@ -1,5 +1,7 @@
 ![logo](https://github.com/SanjayvVarma/SanjayvVarma/blob/main/Screenshot%202024-03-21%20171219.png)
 
+![logo](https://github.com/SanjayvVarma/SanjayvVarma/blob/main/coollogo_com-26331611_prev_ui.png)
+
 <h1 align="center">Hi 👋, I'm Sanjay Varma</h1>
 <h3 align="center">A passionate full stack web developer, Indian</h3>
 
