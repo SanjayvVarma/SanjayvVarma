@@ -2,8 +2,7 @@
 
 ![logo](https://github.com/SanjayvVarma/SanjayvVarma/blob/main/coollogo_com-26331611_prev_ui.png)
 
-<h1 align="center">Hi 👋, I'm Sanjay Varma</h1>
-<h3 align="center">A passionate full stack web developer, Indian</h3>
+<h1 align="center">A passionate full stack web developer, Indian</h1>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
