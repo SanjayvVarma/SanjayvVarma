@@ -13,7 +13,11 @@
 
 - 📄 Know about my experiences [https://sanjayvvarma.github.io/Portfolio/#/resume](https://sanjayvvarma.github.io/Portfolio/#/resume)
 
+ - 👯 I’m looking to work on SDE
+
 - ⚡ Fun fact **I once spent an hour debugging a single line of code, only to realize I forgot to add a semicolon. Lesson learned: attention to detail is everything in coding!**
+
+
 
 
 ## Language :
