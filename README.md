@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Full stack web developer and DSA**
 
-- 👨‍💻 All of my projects are available at [https://sanjayvvarma.github.io/Portfolio/](https://sanjayvvarma.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://sanjayvvarma.github.io/Portfolio/](https://portfolio-sanjay-varma.vercel.app/)
 
-- 📄 Know about my experiences [https://sanjayvvarma.github.io/Portfolio/#/resume](https://sanjayvvarma.github.io/Portfolio/#/resume)
+- 📄 Know about my experiences [https://sanjayvvarma.github.io/Portfolio/#/resume](https://portfolio-sanjay-varma.vercel.app/resume)
 
  - 👯 I’m looking to work on SDE
 
