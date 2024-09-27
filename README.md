@@ -21,24 +21,31 @@
 
 
 ## Language :
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java7&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## Libraries & Framework :
+
+## Web Technology, Libraries & Framework :
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](	https://img.shields.io/badge/Tailwind-ED8B00?style=for-the-badge&logo=bootstrap&logoColor=blue)
+![Tailwind](	https://img.shields.io/badge/Tailwind-ED8B00?style=for-the-badge&logo=tailwind&logoColor=blue)
+![Node.js](	https://img.shields.io/badge/Node.js-911953?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![Express](	https://img.shields.io/badge/Express-1b42de?style=for-the-badge&logo=express&logoColor=ffffff)
+![MongoDB](	https://img.shields.io/badge/MongoDB-26b213?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 
 
 ## DevOps & Cloud Tools:
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 ## 🔎 Connect with me:<img height="60px" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" />
